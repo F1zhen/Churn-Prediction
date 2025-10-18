@@ -1,0 +1,25 @@
+{
+    "model_name": "Gradient Boosting",
+    "features": [
+        "CreditScore",
+        "Age",
+        "Tenure",
+        "Balance",
+        "NumOfProducts",
+        "HasCrCard",
+        "IsActiveMember",
+        "EstimatedSalary",
+        "Geography_France",
+        "Geography_Germany",
+        "Geography_Spain",
+        "Gender_encoder"
+    ],
+    "performance": {
+        "Accuracy": 0.8680659670164917,
+        "Precision": 0.7834645669291339,
+        "Recall": 0.4877450980392157,
+        "F1-Score": 0.6012084592145015,
+        "ROC-AUC": 0.8705719261967184
+    },
+    "training_date": "2025-10-18 11:31:59"
+}
